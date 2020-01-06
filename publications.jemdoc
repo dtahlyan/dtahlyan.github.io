@@ -5,15 +5,15 @@
 == Journal Publications
 
 - Luong, T.D., Tahlyan, D. and Pinjari, A.R., 2018. Comprehensive Exploratory Analysis of Truck Route 
-Choice Diversity in Florida. /Transportation Research Record/, 2672(9), pp.152-163.
+Choice Diversity in Florida. /Transportation Research Record/, 2672(9), pp.152-163. [https://journals.sagepub.com/doi/10.1177/0361198118784175 PDF] | [files/diversity2018 PREPRINT]
 - Verma, A., Kumari, A., Tahlyan, D. and Hosapujari, A.B., 2017. Development of hub and spoke model for 
 improving operational efficiency of bus transit network of Bangalore city. /Case Studies on Transport Policy/, 
-5(1), pp.71-79.
+5(1), pp.71-79. [https://www.sciencedirect.com/science/article/pii/S2213624X16301195 PDF]
 
 == Conference Presentations
 
 - Tahlyan, D., Maness, M. 2019. Incorporating social capital as a latent variable
-in discrete choice models. /International Choice Modeling Conference (ICMC)/, Kobe, Japan. (see note below)
+in discrete choice models. /International Choice Modeling Conference (ICMC)/, Kobe, Japan.
 
 - Tahlyan, D., Sheela, P.V., Maness, M., & Pinjari, A.R. 2018. Improving the spatial 
 transferability of travel demand forecasting models: An empirical assessment of the impact 
@@ -27,6 +27,10 @@ Conference on Innovations in Travel Modeling (ITM)/, Atlanta.
 
 - Tahlyan, D., Pinjari, A. R., 2018. Performance Evaluation of Choice Set Generation Algorithms 
 for Modeling Truck Route Choice: Insights from Large Streams of Truck-GPS Data. /97th Annual Meeting of 
+Transportation Research Board/, Washington D.C.
+
+- Luong, T.D., Tahlyan, D. and Pinjari, A.R., 2018. Comprehensive Exploratory Analysis of Truck Route 
+Choice Diversity in Florida. /97th Annual Meeting of 
 Transportation Research Board/, Washington D.C.
 
 - Tahlyan, D., Pinjari, A. R., 2018. Performance Evaluation of Choice Set Generation Algorithms 
@@ -56,13 +60,20 @@ Route Choice: Insights from Large Streams of Truck-GPS Data. /University of Sout
 == Technical Reports
 
 - Tahlyan, D., Pinjari, A. R., Luong, T.D., Ozkul, S., 2017. Truck Route Choice Modeling using Large Streams
-of GPS Data. Report CAIT-UTC-NC32. /Federal Highway Administration, United States Department of Transportation/.
+of GPS Data. Report CAIT-UTC-NC32. /Federal Highway Administration, United States Department of Transportation/. [https://rosap.ntl.bts.gov/view/dot/34888 PDF]
 
 -  Tahlyan, D., Luong, T. D., Pinjari, A. R., Ozkul, S., 2017. Development and Analysis of Truck Route 
-Choice Data for Tampa Bay Region using GPS Data. Report BDK25-730-3. /Florida Department of Transportation/.
+Choice Data for Tampa Bay Region using GPS Data. Report BDK25-730-3. /Florida Department of Transportation/. [files/routedata2017.pdf PDF]
 
 
 
 == Working Papers
+
+- Tahlyan, D., Stathopoulos, A., Maness, M. 2020. Disentangling social capital: Understanding the effect of social support and social network resources
+on social recreational activity participation. /Northwestern University/. 
+
+- Tahlyan, D., Pinjari, A. 2020. Performance Evaluation of Choice Set Generation For Peer Review Only
+Algorithms for Analyzing Route Choice: Insights from Spatial Aggregation for the BFS-LE Algorithm. /Northwestern 
+University/. 
 
 
