@@ -1,4 +1,4 @@
-jemdoc.py index.jemdoc
+jemdoc.py -c mysite.conf index.jemdoc
 jemdoc.py activities.jemdoc
 jemdoc.py blog.jemdoc
 jemdoc.py publications.jemdoc
