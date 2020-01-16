@@ -1,5 +1,18 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
-==Research
+==Research Interests
 
-I haven't posted anything here yet. 
+Areas I am deeply interested in and have worked in the past:
+- Travel demand forecasting and travel behavior analysis
+- Discrete choice modeling and other applied econometrics methods 
+- Social network analysis
+- Transportation application of machine learning
+- Crash data analysis
+- Analysis of passive data sources (like GPS data) for transportation planning purposes 
+
+Other areas I am interested in, currently reading about regularly and would like to explore in near future:
+- Advance social network analysis methods - ERGMs, stochastic actor-orientated models, relational event model, bi-partite network analysis 
+- Bayesian data analysis
+- Topological data analysis (like persistent homology)
+- Time series data analysis for short-term transportation demand/state prediction
+- Automatic-differentiation, tensor and GPU/TPU based model estimation (see [https://www.tensorflow.org/ TensorFlow])
 
