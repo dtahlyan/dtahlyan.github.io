@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+==Research
+
+== List of important R packages
+
+Below is a list of important R packages that I regularly use for various types of analysis:
+
+1. lubridate - 
+
+2. geosphere - 
+
+3. lavaan
+
+4. bsts
+
+5. imputeTS
+
+6. 
