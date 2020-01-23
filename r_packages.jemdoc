@@ -5,9 +5,9 @@
 
 Below is a list of important R packages that I regularly use for various types of analysis:
 
-1. [https://cran.r-project.org/web/packages/data.table/ data.table] - /
-2. [https://cran.r-project.org/web/packages/lubridate/ lubridate] - /
-3. [https://cran.r-project.org/web/packages/geosphere/ geosphere] - /
-4. [https://cran.r-project.org/web/packages/lavaan/ lavaan] - /
-5. [https://cran.r-project.org/web/packages/bsts/ bsts] - //
-6. [https://cran.r-project.org/web/packages/imputeTS/ imputeTS] - //
+- [https://cran.r-project.org/web/packages/data.table/ data.table] - /
+- [https://cran.r-project.org/web/packages/lubridate/ lubridate] - /
+- [https://cran.r-project.org/web/packages/geosphere/ geosphere] - /
+- [https://cran.r-project.org/web/packages/lavaan/ lavaan] - /
+- [https://cran.r-project.org/web/packages/bsts/ bsts] - //
+- [https://cran.r-project.org/web/packages/imputeTS/ imputeTS] - //
