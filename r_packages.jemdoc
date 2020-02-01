@@ -1,13 +1,13 @@
 # jemdoc: menu{MENU}{notes.html}, nofooter  
 ==Notes
 
-== List of important R packages
+== List of useful R packages
 
-Below is a list of important R packages that I regularly use for various types of analysis:
+Below is a list of useful R packages that I regularly use:
 
-- [https://cran.r-project.org/web/packages/data.table/ data.table] - 
-- [https://cran.r-project.org/web/packages/lubridate/ lubridate] - 
-- [https://cran.r-project.org/web/packages/geosphere/ geosphere] - 
-- [https://cran.r-project.org/web/packages/lavaan/ lavaan] - 
-- [https://cran.r-project.org/web/packages/bsts/ bsts] - 
-- [https://cran.r-project.org/web/packages/imputeTS/ imputeTS] - 
+- [https://cran.r-project.org/web/packages/data.table/ data.table] - a faster way of working with data frames in R. Very useful  while working with very large datasets (>10 million records) 
+- [https://cran.r-project.org/web/packages/lubridate/ lubridate] - for handling time stamps in R (like in GPS recrods or time series data)
+- [https://cran.r-project.org/web/packages/geosphere/ geosphere] - for working with GPS data
+- [https://cran.r-project.org/web/packages/lavaan/ lavaan] - for structural equation modeling (also checkout 'blavaan' for bayesian SEM)
+- [https://cran.r-project.org/web/packages/bsts/ bsts] - for estimation of bayesian structural time series models (a.k.a state - space models)
+- [https://cran.r-project.org/web/packages/imputeTS/ imputeTS] - for imputing missing data in time series
