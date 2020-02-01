@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{software.html}, nofooter  
 ==Software
 
-== Software codes for some of my studies
+Software codes for some of my studies
 
 - [https://github.com/dtahlyan/BFS_LE BFS-LE]: Python code of breadth-first-search based link elimination algorithm for 
 						route choice set generation algorithm. The study associated with this 
