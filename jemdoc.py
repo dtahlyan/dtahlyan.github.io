@@ -172,6 +172,7 @@ def standardconf():
   
   [bodystart]
   </head>
+  <link rel="shortcut icon" href="favicon.ico" />
   <body>
   
   [analytics]
