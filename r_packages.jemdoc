@@ -12,3 +12,5 @@ Below is a list of useful R packages that I regularly use:
 - [https://cran.r-project.org/web/packages/bsts/ bsts] - for estimation of bayesian structural time series models (a.k.a state - space models)
 - [https://cran.r-project.org/web/packages/imputeTS/ imputeTS] - for imputing missing data in time series
 - [https://cran.r-project.org/web/packages/Bergm/index.html Bergm] - for bayesian exponential randon graph models
+- [https://cran.r-project.org/web/packages/RSiena/index.html RSiene], [https://cran.r-project.org/web/packages/relevent/index.html relevent],
+[https://cran.r-project.org/web/packages/statnet/index.html statnet], [https://cran.r-project.org/web/packages/sna/index.html sna] - various packages for social network analysis 
