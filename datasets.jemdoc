@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{notes.html}, nofooter  
+==Notes
+
+== List of publicly available transportation datasets (last updated: Feb 16, 2020)
+
+
+- [https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj NGSIM]: Next Generation Simulation (NGSIM) Vehicle Trajectories Dataset 
+- [https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if Chicago Crash Dataset]
+- [https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p Chicago TNC trips data]
+ 
