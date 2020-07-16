@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{notes.html}, nofooter  
+# jemdoc: menu{MENU}{notes.html}  
 ==Notes
 
 == List of useful R packages (last updated: Feb 15, 2020)

@@ -1,5 +1,3 @@
-G:
-cd G:\My Drive\Website_repo\dtahlyan.github.io
 jemdoc.py index.jemdoc
 jemdoc.py activities.jemdoc
 jemdoc.py blog.jemdoc
